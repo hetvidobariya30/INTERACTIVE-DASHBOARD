@@ -12,8 +12,6 @@ Duration :- 4 Weeks
 
 Mentor :- NEELA SANTHOSH
 
-output :- 
-   "https://github.com/hetvidobariya30/INTERACTIVE-DASHBOARD/issues/1#issue-3983858116"
 Description :- 
 
 # Project Overview 

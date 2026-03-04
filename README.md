@@ -1,18 +1,4 @@
-# INTERACTIVE-DASHBOARD
-
-Company Name :- CODTECH IT SOLUTIONS
-
-Name :- DOBARIYA HETVI RAMESHBHAI
-
-Intern ID :- CTIS4315
-
-Domain Name :- Data Analytics
-
-Duration :- 4 Weeks
-
-Mentor :- NEELA SANTHOSH
-
-Description :- 
+# 📊 INTERACTIVE-DASHBOARD
 
 # Project Overview 
 

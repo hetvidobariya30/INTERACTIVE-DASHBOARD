@@ -1,5 +1,8 @@
 # 📊 INTERACTIVE-DASHBOARD
+
+
 <img width="1525" height="860" alt="Image" src="https://github.com/user-attachments/assets/ad5031df-b106-4da5-a008-35ed9591489e" />
+
 # 🚀 Project Overview 
 
 This project presents an interactive E-Commerce Customer Behavior Dashboard developed using Microsoft Power BI. The dashboard analyzes customer purchasing patterns, demographic distribution, payment preferences, product performance trends, and return behavior.
